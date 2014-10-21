@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09CFD99C-D1DC-4C3F-AED5-80ACC96F458D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OpenInBrowser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5D355EE04169E3B69AB7A52F0415B94AD48B2DED</key>
+		<string>ssh://develop.klab.ai.kyutech.ac.jp:51022/tarunon/open-in-browser.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OpenInBrowser.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5D355EE04169E3B69AB7A52F0415B94AD48B2DED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://develop.klab.ai.kyutech.ac.jp:51022/tarunon/open-in-browser.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5D355EE04169E3B69AB7A52F0415B94AD48B2DED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5D355EE04169E3B69AB7A52F0415B94AD48B2DED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenInBrowser</string>
+		</dict>
+	</array>
+</dict>
+</plist>

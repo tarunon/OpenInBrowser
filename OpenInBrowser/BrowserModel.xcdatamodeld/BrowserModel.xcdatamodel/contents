@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6244" systemVersion="14A343f" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="BrowserEntity" representedClassName="BrowserEntity" syncable="YES">
+        <attribute name="appName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="appstoreURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="enable" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="iconURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="index" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="schemeHTTP" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="schemeHTTPS" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="BrowserEntity" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>
