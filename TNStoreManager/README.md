@@ -1,0 +1,4 @@
+CoreDataのマネージャークラス。
+AppDelegate等にTNStoreManagerDelegateを貼ってインスタンス作るとNSManagedObjectContextが降ってくる。
+内部的にContextを2重にしてDiscIOを別スレッドに分けたりしてるけど意味あんのかな？
+iCloudの利用はファイルの有無で判定。切替時にコンフリクトする場合はローカルとiCloudの優先を選択。マージはしない。

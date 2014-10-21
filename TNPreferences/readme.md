@@ -1,0 +1,3 @@
+NSUserDefaults, NSUbiquityKeyValueStoreのラッパークラス。
+TNPreferencesのサブクラスを作成し、設定したpropertyが永続化される。
+propertyの型はNSUserDefaultsに使用可能なNSObject、NSInteger、CGFloat、BOOLの何れか。

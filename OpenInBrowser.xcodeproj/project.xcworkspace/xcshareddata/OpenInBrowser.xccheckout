@@ -10,14 +10,22 @@
 	<string>OpenInBrowser</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>5D355EE04169E3B69AB7A52F0415B94AD48B2DED</key>
+		<key>2280237D17B16F55A43B3D40A4498024B3571722</key>
+		<string>https://github.com/tarunon/TNPreferences.git</string>
+		<key>9A7F0F19464A4052BA7D984797CD9B3FFF88DD6F</key>
+		<string>https://github.com/tarunon/TNStoreManager</string>
+		<key>E2C119D2CA1990067172599DB15295318AF5FB81</key>
 		<string>ssh://develop.klab.ai.kyutech.ac.jp:51022/tarunon/open-in-browser.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>OpenInBrowser.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>5D355EE04169E3B69AB7A52F0415B94AD48B2DED</key>
+		<key>2280237D17B16F55A43B3D40A4498024B3571722</key>
+		<string>../../TNPreferences/</string>
+		<key>9A7F0F19464A4052BA7D984797CD9B3FFF88DD6F</key>
+		<string>../../TNStoreManager/</string>
+		<key>E2C119D2CA1990067172599DB15295318AF5FB81</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,16 +33,32 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5D355EE04169E3B69AB7A52F0415B94AD48B2DED</string>
+	<string>E2C119D2CA1990067172599DB15295318AF5FB81</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5D355EE04169E3B69AB7A52F0415B94AD48B2DED</string>
+			<string>E2C119D2CA1990067172599DB15295318AF5FB81</string>
 			<key>IDESourceControlWCCName</key>
 			<string>OpenInBrowser</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2280237D17B16F55A43B3D40A4498024B3571722</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TNPreferences</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A7F0F19464A4052BA7D984797CD9B3FFF88DD6F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TNStoreManager</string>
 		</dict>
 	</array>
 </dict>

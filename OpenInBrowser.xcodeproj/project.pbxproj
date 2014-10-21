@@ -11,13 +11,13 @@
 		1122BDC519C6655100142C63 /* BrowserCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1122BDC419C6655100142C63 /* BrowserCollectionViewCell.swift */; };
 		116E6B1C19C66C75007083C8 /* BrowserEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 116E6B1B19C66C75007083C8 /* BrowserEntity.m */; };
 		116E6B1D19C66C93007083C8 /* BrowserEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 116E6B1B19C66C75007083C8 /* BrowserEntity.m */; };
+		1173D41319F5FECD002A64DF /* TNPreferences.m in Sources */ = {isa = PBXBuildFile; fileRef = 1173D41219F5FECD002A64DF /* TNPreferences.m */; };
+		1173D41419F5FECD002A64DF /* TNPreferences.m in Sources */ = {isa = PBXBuildFile; fileRef = 1173D41219F5FECD002A64DF /* TNPreferences.m */; };
+		1173D41719F5FED8002A64DF /* TNStoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1173D41619F5FED8002A64DF /* TNStoreManager.m */; };
+		1173D41819F5FED8002A64DF /* TNStoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1173D41619F5FED8002A64DF /* TNStoreManager.m */; };
 		1176D9E219C689EA00D14D88 /* manual_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 1176D9E119C689EA00D14D88 /* manual_0.png */; };
 		1176D9F319C6946A00D14D88 /* BrowserPreferences.m in Sources */ = {isa = PBXBuildFile; fileRef = 1176D9F219C6946A00D14D88 /* BrowserPreferences.m */; };
 		1176D9F419C6946A00D14D88 /* BrowserPreferences.m in Sources */ = {isa = PBXBuildFile; fileRef = 1176D9F219C6946A00D14D88 /* BrowserPreferences.m */; };
-		11A90AE319F5F2E200D14AAD /* TNPreferences.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A90AE019F5F2E200D14AAD /* TNPreferences.m */; };
-		11A90AE419F5F2E200D14AAD /* TNStoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A90AE219F5F2E200D14AAD /* TNStoreManager.m */; };
-		11A90AE519F5F33C00D14AAD /* TNPreferences.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A90AE019F5F2E200D14AAD /* TNPreferences.m */; };
-		11A90AE619F5F33C00D14AAD /* TNStoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A90AE219F5F2E200D14AAD /* TNStoreManager.m */; };
 		11B76FAD19C618930094E666 /* BrowserModelManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B76FAC19C618930094E666 /* BrowserModelManager.swift */; };
 		11BFD1B819C616CD00D937DA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BFD1B719C616CD00D937DA /* AppDelegate.swift */; };
 		11BFD1BA19C616CD00D937DA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BFD1B919C616CD00D937DA /* ViewController.swift */; };
@@ -78,13 +78,13 @@
 		1122BDC419C6655100142C63 /* BrowserCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrowserCollectionViewCell.swift; sourceTree = "<group>"; };
 		116E6B1A19C66C75007083C8 /* BrowserEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrowserEntity.h; sourceTree = "<group>"; };
 		116E6B1B19C66C75007083C8 /* BrowserEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrowserEntity.m; sourceTree = "<group>"; };
+		1173D41119F5FECD002A64DF /* TNPreferences.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TNPreferences.h; path = TNPreferences/TNPreferences.h; sourceTree = SOURCE_ROOT; };
+		1173D41219F5FECD002A64DF /* TNPreferences.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TNPreferences.m; path = TNPreferences/TNPreferences.m; sourceTree = SOURCE_ROOT; };
+		1173D41519F5FED8002A64DF /* TNStoreManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TNStoreManager.h; path = TNStoreManager/TNStoreManager.h; sourceTree = SOURCE_ROOT; };
+		1173D41619F5FED8002A64DF /* TNStoreManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TNStoreManager.m; path = TNStoreManager/TNStoreManager.m; sourceTree = SOURCE_ROOT; };
 		1176D9E119C689EA00D14D88 /* manual_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = manual_0.png; sourceTree = "<group>"; };
 		1176D9F119C6946A00D14D88 /* BrowserPreferences.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrowserPreferences.h; sourceTree = "<group>"; };
 		1176D9F219C6946A00D14D88 /* BrowserPreferences.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrowserPreferences.m; sourceTree = "<group>"; };
-		11A90ADF19F5F2E200D14AAD /* TNPreferences.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TNPreferences.h; sourceTree = "<group>"; };
-		11A90AE019F5F2E200D14AAD /* TNPreferences.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TNPreferences.m; sourceTree = "<group>"; };
-		11A90AE119F5F2E200D14AAD /* TNStoreManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TNStoreManager.h; sourceTree = "<group>"; };
-		11A90AE219F5F2E200D14AAD /* TNStoreManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TNStoreManager.m; sourceTree = "<group>"; };
 		11B76FAC19C618930094E666 /* BrowserModelManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrowserModelManager.swift; sourceTree = "<group>"; };
 		11BFD1B219C616CD00D937DA /* OpenInBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenInBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11BFD1B619C616CD00D937DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -169,10 +169,10 @@
 				116E6B1B19C66C75007083C8 /* BrowserEntity.m */,
 				1176D9F119C6946A00D14D88 /* BrowserPreferences.h */,
 				1176D9F219C6946A00D14D88 /* BrowserPreferences.m */,
-				11A90ADF19F5F2E200D14AAD /* TNPreferences.h */,
-				11A90AE019F5F2E200D14AAD /* TNPreferences.m */,
-				11A90AE119F5F2E200D14AAD /* TNStoreManager.h */,
-				11A90AE219F5F2E200D14AAD /* TNStoreManager.m */,
+				1173D41119F5FECD002A64DF /* TNPreferences.h */,
+				1173D41219F5FECD002A64DF /* TNPreferences.m */,
+				1173D41519F5FED8002A64DF /* TNStoreManager.h */,
+				1173D41619F5FED8002A64DF /* TNStoreManager.m */,
 				11E03F2E19C6A7A800FCE256 /* manual_1.png */,
 				11BFD1B519C616CD00D937DA /* Supporting Files */,
 				11BFD1D719C6174700D937DA /* OpenInBrowser-Bridging-Header.h */,
@@ -380,10 +380,10 @@
 				11BFD1BA19C616CD00D937DA /* ViewController.swift in Sources */,
 				11B76FAD19C618930094E666 /* BrowserModelManager.swift in Sources */,
 				1176D9F319C6946A00D14D88 /* BrowserPreferences.m in Sources */,
-				11A90AE419F5F2E200D14AAD /* TNStoreManager.m in Sources */,
+				1173D41719F5FED8002A64DF /* TNStoreManager.m in Sources */,
 				116E6B1C19C66C75007083C8 /* BrowserEntity.m in Sources */,
 				11BFD1DD19C6177700D937DA /* BrowserModel.xcdatamodeld in Sources */,
-				11A90AE319F5F2E200D14AAD /* TNPreferences.m in Sources */,
+				1173D41319F5FECD002A64DF /* TNPreferences.m in Sources */,
 				11BFD1B819C616CD00D937DA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -400,14 +400,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11A90AE519F5F33C00D14AAD /* TNPreferences.m in Sources */,
-				11A90AE619F5F33C00D14AAD /* TNStoreManager.m in Sources */,
 				116E6B1D19C66C93007083C8 /* BrowserEntity.m in Sources */,
 				11EB64C519C65ED500D0B5B3 /* BrowserModel.xcdatamodeld in Sources */,
 				1122BDC519C6655100142C63 /* BrowserCollectionViewCell.swift in Sources */,
 				1176D9F419C6946A00D14D88 /* BrowserPreferences.m in Sources */,
 				11EB64C219C65EB000D0B5B3 /* BrowserModelManager.swift in Sources */,
+				1173D41819F5FED8002A64DF /* TNStoreManager.m in Sources */,
 				11EB64AF19C64AB200D0B5B3 /* ActionViewController.swift in Sources */,
+				1173D41419F5FECD002A64DF /* TNPreferences.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
